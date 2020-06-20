@@ -1,12 +1,15 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact"
+subheadline: ""
+teaser: "If you are intersted dry lab or a hybrid wet-dry lab PhD position in our group, please feel free to get in touch!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Most of our PhD projects are joint between the [Institue of Genetics & Molecular Medicine][1] and the [School of Informatics][2], University of Edinburgh. Depending on your interests and background, you could consider applying via one or the other. 
 
 
- [1]: http://www.wufoo.com/
+
+
+ [1]: https://www.ed.ac.uk/igmm
+ [2]: https://www.ed.ac.uk/informatics

@@ -1,10 +1,15 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Research
+  url: "/research/"
   side: left
+  dropdown:
+  - title: "Wet Lab"
+    url: "/design/grid/"
+  - title: "Dry Lab"
+    url: "/design/typography/typography/"  
 
 - title: "Templates"
   url: "/design/"
